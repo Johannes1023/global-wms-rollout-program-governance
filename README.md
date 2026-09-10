@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This program focused on the global rollout of Manhattan Associates Warehouse Management for a large international consumer company.
+This program focused on the global rollout of Manhattan Associates Warehouse Management for a large international consumer goods and apparel company.
 
 The transformation covered **16 countries, more than 2,000 end users and a program investment exceeding €10 million**. My delivery focus included rollout activities in Latin America, particularly Brazil, as part of a broader global deployment.
 
@@ -18,7 +18,7 @@ The supply chain organization had historically operated in a highly decentralize
 
 Regional and local teams used different warehouse solutions, processes and working practices. This created a fragmented technology landscape, limited process standardization and made it difficult to establish consistent ways of working across countries.
 
-The program introduced Manhattan Associates WMS as a common global platform and standardized core warehouse processes across **16 markets**.
+The program introduced Manhattan Associates WMS as a common global platform and standardized core warehouse processes across **16 markets/countries**.
 
 This represented a significant change for local organizations. Some markets had established their own processes and systems over many years and were reluctant to replace them with a centrally defined solution.
 
